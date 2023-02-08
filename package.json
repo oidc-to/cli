@@ -1,6 +1,6 @@
 {
   "name": "oidc-to",
-  "version": "1.0.2-0",
+  "version": "1.0.2",
   "description": "The CLI for OIDC.to",
   "repository": "git@github.com:oidc-to/cli.git",
   "author": "Scaffoldly",
