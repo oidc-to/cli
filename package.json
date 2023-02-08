@@ -1,6 +1,6 @@
 {
   "name": "oidc-to",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "The CLI for saml.to",
   "repository": "git@github.com:oidc-to/cli.git",
   "author": "Scaffoldly",
